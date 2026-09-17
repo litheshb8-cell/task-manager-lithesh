@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "_id": "user_lithesh_001",
+      "id": "user_lithesh_001",
+      "name": "Lithesh",
+      "email": "lithesh@example.com",
+      "password": "$2a$10$AgSBUyKIbSqcfjBmHqqOg.byxI1VnXGh30cuMuuotdb5CidFw9Ppi",
+      "created_at": "2026-08-18T04:01:53.407Z",
+      "streak": 5
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "task_001",
+      "id": "task_001",
+      "userId": "user_lithesh_001",
+      "title": "Complete HTML project",
+      "description": "Finish landing page semantic layout and responsive media queries",
+      "category": "Programming",
+      "priority": "High",
+      "status": "Completed",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-14T04:01:53.407Z"
+    },
+    {
+      "_id": "task_002",
+      "id": "task_002",
+      "userId": "user_lithesh_001",
+      "title": "Study C++",
+      "description": "Review pointers, memory management, and OOP class templates",
+      "category": "College",
+      "priority": "High",
+      "status": "Completed",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-15T04:01:53.407Z"
+    },
+    {
+      "_id": "task_003",
+      "id": "task_003",
+      "userId": "user_lithesh_001",
+      "title": "Portfolio Website design",
+      "description": "Prototype dark glassmorphism theme and interactive widgets",
+      "category": "Project",
+      "priority": "Medium",
+      "status": "Completed",
+      "dueDate": "2026-09-16",
+      "created_at": "2026-09-13T04:01:53.407Z"
+    },
+    {
+      "_id": "task_004",
+      "id": "task_004",
+      "userId": "user_lithesh_001",
+      "title": "Complete Java Assignment",
+      "description": "Implement multi-threaded client-server socket protocol",
+      "category": "College",
+      "priority": "High",
+      "status": "Completed",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-16T04:01:53.407Z"
+    },
+    {
+      "_id": "task_005",
+      "id": "task_005",
+      "userId": "user_lithesh_001",
+      "title": "Practice C++ Algorithms",
+      "description": "Solve dynamic programming and graph recursion challenges",
+      "category": "College",
+      "priority": "Medium",
+      "status": "Completed",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-16T04:01:53.407Z"
+    },
+    {
+      "_id": "task_006",
+      "id": "task_006",
+      "userId": "user_lithesh_001",
+      "title": "Read AI Notes",
+      "description": "Review neural network backpropagation and attention mechanism summaries",
+      "category": "Study",
+      "priority": "Low",
+      "status": "Completed",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-15T04:01:53.407Z"
+    },
+    {
+      "_id": "task_007",
+      "id": "task_007",
+      "userId": "user_lithesh_001",
+      "title": "Morning 5K Run & Stretching",
+      "description": "Maintain cardio routine and 5-day fitness consistency",
+      "category": "Fitness",
+      "priority": "Low",
+      "status": "Completed",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-16T04:01:53.407Z"
+    },
+    {
+      "_id": "task_008",
+      "id": "task_008",
+      "userId": "user_lithesh_001",
+      "title": "Build Portfolio Website",
+      "description": "Wire up REST API endpoints and connect dynamic dashboard charts",
+      "category": "Project",
+      "priority": "Medium",
+      "status": "In Progress",
+      "dueDate": "2026-09-18",
+      "created_at": "2026-09-17T04:01:53.407Z"
+    },
+    {
+      "_id": "task_009",
+      "id": "task_009",
+      "userId": "user_lithesh_001",
+      "title": "C++ Assignment - Loops & Arrays",
+      "description": "Finish arrays, matrix traversal, and nested loops questions",
+      "category": "College",
+      "priority": "High",
+      "status": "Pending",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-17T04:01:53.407Z"
+    },
+    {
+      "_id": "task_010",
+      "id": "task_010",
+      "userId": "user_lithesh_001",
+      "title": "Submit College Assignment",
+      "description": "Upload PDF report and source code to university portal",
+      "category": "College",
+      "priority": "High",
+      "status": "Pending",
+      "dueDate": "2026-09-16",
+      "created_at": "2026-09-12T04:01:53.407Z"
+    },
+    {
+      "_id": "task_011",
+      "id": "task_011",
+      "userId": "user_lithesh_001",
+      "title": "Evening Workout & Strength Training",
+      "description": "Upper body resistance training and core stability routine",
+      "category": "Fitness",
+      "priority": "Low",
+      "status": "Pending",
+      "dueDate": "2026-09-17",
+      "created_at": "2026-09-17T04:01:53.407Z"
+    },
+    {
+      "_id": "task_012",
+      "id": "task_012",
+      "userId": "user_lithesh_001",
+      "title": "Read Documentation on System Design",
+      "description": "Distributed cache invalidation and database indexing trade-offs",
+      "category": "Programming",
+      "priority": "Low",
+      "status": "Pending",
+      "dueDate": "2026-09-15",
+      "created_at": "2026-09-11T04:01:53.407Z"
+    }
+  ]
+}
